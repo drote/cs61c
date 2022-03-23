@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "__config": "c",
+        "__nullptr": "c",
+        "locale": "c",
+        "__locale": "c"
+    }
+}
